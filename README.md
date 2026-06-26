@@ -2,6 +2,15 @@
 
 Dashboard that tracks GitHub Trending repositories using web scraping.
 
+## Preview
+<p align="center">
+  <img src="[LINK_DIRECTO_A_LA_IMAGEN_1]" width="45%"> &nbsp; <img src="[LINK_DIRECTO_A_LA_IMAGEN_2]" width="45%">
+  <br>
+  <img src="[LINK_DIRECTO_A_LA_IMAGEN_3]" width="45%"> &nbsp; <img src="[LINK_DIRECTO_A_LA_IMAGEN_4]" width="45%">
+  <br>
+  <img src="[LINK_DIRECTO_A_LA_IMAGEN_5]" width="91%">
+</p>
+
 ## Features
 
 - Scrape GitHub Trending
