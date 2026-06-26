@@ -4,11 +4,11 @@ Dashboard that tracks GitHub Trending repositories using web scraping.
 
 ## Preview
 <p align="center">
-  <img src="[LINK_DIRECTO_A_LA_IMAGEN_1]" width="45%"> &nbsp; <img src="[LINK_DIRECTO_A_LA_IMAGEN_2]" width="45%">
+  <img src="https://imgur.com/gjg5teJ" width="45%"> &nbsp; <img src="https://imgur.com/W6cHHBQ" width="45%">
   <br>
-  <img src="[LINK_DIRECTO_A_LA_IMAGEN_3]" width="45%"> &nbsp; <img src="[LINK_DIRECTO_A_LA_IMAGEN_4]" width="45%">
+  <img src="https://imgur.com/cyF7M7W" width="45%"> &nbsp; <img src="https://imgur.com/ZAt8Thw" width="45%">
   <br>
-  <img src="[LINK_DIRECTO_A_LA_IMAGEN_5]" width="91%">
+  <img src="https://imgur.com/VgrmM7a" width="91%">
 </p>
 
 ## Features
